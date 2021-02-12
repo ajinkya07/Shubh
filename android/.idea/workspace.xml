@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9af19d22-963a-4bdf-98ab-c46dc11bfdab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/splash.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/splash.imageset/iTunesArtwork@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/splash.imageset/iTunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/splash.imageset/iTunesArtwork@3x-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ShubhOrnaments.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ShubhOrnaments.xcodeproj/xcshareddata/xcschemes/ShubhOrnaments.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments.xcodeproj/xcshareddata/xcschemes/ShubhOrnaments.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ShubhOrnaments/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Images.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ShubhOrnaments/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ShubhOrnaments/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ShubhOrnaments/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/component/_Header/_Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/component/_Header/_Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/component/_Tabs/BottomTabIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/component/_Tabs/BottomTabIcon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/component/_Tabs/_Tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/component/_Tabs/_Tabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Account/EditProfile/DatePickerComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/Account/EditProfile/DatePickerComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Account/EditProfile/DatePickerComponent1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/Account/EditProfile/DatePickerComponent1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Account/EditProfile/EditProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/Account/EditProfile/EditProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/CartContainer/CartContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/CartContainer/CartContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/CategoryContainer/CategoryContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/CategoryContainer/CategoryContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/CategoryContainer/ProductDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/CategoryContainer/ProductDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/CustomOrder/Customizable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/CustomOrder/Customizable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/HomePage/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/HomePage/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/HomePage/Search/FromDatePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/HomePage/Search/FromDatePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/HomePage/Search/SearchScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/HomePage/Search/SearchScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/HomePage/Search/ToDatePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/HomePage/Search/ToDatePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1o3QGjoWoPeDnBq4clPZFxNKFA6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af19d22-963a-4bdf-98ab-c46dc11bfdab" name="Default Changelist" comment="" />
+      <created>1612512701469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612512701469</updated>
+    </task>
+    <servers />
+  </component>
+</project>

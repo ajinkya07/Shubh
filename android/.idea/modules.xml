@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1246830617/@react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1246830617/@react-native-community_datetimepicker.iml" group="ShubhOrnaments/@react-native-community_datetimepicker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShubhOrnaments.iml" filepath="$PROJECT_DIR$/.idea/modules/ShubhOrnaments.iml" group="ShubhOrnaments" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ShubhOrnaments/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1223291494/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1223291494/react-native-community_async-storage.iml" group="ShubhOrnaments/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1711875565/react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-1711875565/react-native-community_checkbox.iml" group="ShubhOrnaments/react-native-community_checkbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-153593082/react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-153593082/react-native-community_clipboard.iml" group="ShubhOrnaments/react-native-community_clipboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-203551977/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-203551977/react-native-community_masked-view.iml" group="ShubhOrnaments/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-769385392/react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-769385392/react-native-fast-image.iml" group="ShubhOrnaments/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1610671235/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1610671235/react-native-firebase_app.iml" group="ShubhOrnaments/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2060158182/react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/2060158182/react-native-firebase_messaging.iml" group="ShubhOrnaments/react-native-firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-529009248/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-529009248/react-native-gesture-handler.iml" group="ShubhOrnaments/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/343645779/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/343645779/react-native-image-crop-picker.iml" group="ShubhOrnaments/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/91156165/react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/91156165/react-native-picker_picker.iml" group="ShubhOrnaments/react-native-picker_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1915641576/react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-1915641576/react-native-push-notification.iml" group="ShubhOrnaments/react-native-push-notification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/840017020/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/840017020/react-native-reanimated.iml" group="ShubhOrnaments/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-920377847/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-920377847/react-native-safe-area-context.iml" group="ShubhOrnaments/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1303589535/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1303589535/react-native-screens.iml" group="ShubhOrnaments/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/184716857/react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/184716857/react-native-share.iml" group="ShubhOrnaments/react-native-share" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-870445076/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-870445076/react-native-splash-screen.iml" group="ShubhOrnaments/react-native-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1800206794/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1800206794/react-native-vector-icons.iml" group="ShubhOrnaments/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2044646957/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-2044646957/react-native-webview.iml" group="ShubhOrnaments/react-native-webview" />
+    </modules>
+  </component>
+</project>
