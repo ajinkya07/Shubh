@@ -1902,13 +1902,7 @@ class CartContainer extends Component {
                           </View>
                         </View>
 
-                        {/* {isDateTimePickerVisible && (
-                          <DateTimePicker
-                            isVisible={isDateTimePickerVisible}
-                            onConfirm={date => this.handleDatePicked(date)}
-                            onCancel={() => this.hideDateTimePicker()}
-                          />
-                        )} */}
+
                       </View>
 
                       <View style={[styles.btnView, { marginVertical: 15 }]}>
